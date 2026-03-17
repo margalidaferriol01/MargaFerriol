@@ -1,16 +1,16 @@
 # Hi, I'm Margalida Ferriol Torres 👋  
 
-I'm a passionate **Computer Engineering** student at **Universitat Pompeu Fabra (UPF)** and **Frontend Developer**. I’m driven by **tech**, **creativity**, and **problem-solving** 🤝. My experience ranges from high-level frontend frameworks to low-level systems programming.
+I'm a **Computer Engineering** student at **Universitat Pompeu Fabra (UPF)** and a **Frontend Developer**. I’m driven by **tech**, **creativity**, and **problem-solving** 🤝. My experience ranges from high-level frontend frameworks to low-level systems programming.
 
-In addition to my university studies, I'm completing my **CFGS in Multiplatform Application Development** at **Prat Educació**. I love building apps, exploring new technologies, and contributing to community projects 🌍.
+Having completed my **Associate Degree (CFGS) in Multiplatform Application Development** at **Prat Educació**, I am now expanding my technical horizon at university, combining the practical skills of application development with the theoretical depth of engineering.
 
 ## 🧑‍💻 ABOUT ME
-I enjoy solving complex problems—from optimizing **Assembly** code to creating **beautiful, functional apps** that improve people's lives. I focus on user experience while maintaining a solid understanding of how software works under the hood.
+I enjoy solving complex problems—from optimizing **Assembly** code to creating **beautiful, functional apps**. I focus on performance and user experience, bridging the gap between low-level logic and modern frontend interfaces.
 
 * 💬 **Languages:** Catalan (Native), Spanish (Native), English (B2)
 * 📍 **Location:** Artà, Mallorca / Barcelona
 * 🧑‍🎓 **Education:** - 2024 - Present: **BSc in Computer Engineering** at **Universitat Pompeu Fabra (UPF)** 🎓
-  - 2023 - 2025: **CFGS in Multiplatform Application Development** at **Prat Educació**
+  - 2023 - 2025: **CFGS in Multiplatform Application Development** at **Prat Educació** (Completed) ✅
   - 2021 - 2023: **Technological Baccalaureate** at **IES Llorenç Garcías i Font**
 
 ---
@@ -31,12 +31,6 @@ I enjoy solving complex problems—from optimizing **Assembly** code to creating
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🔧 Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 
 ## 💼 EXPERIENCE
@@ -53,15 +47,4 @@ I enjoy solving complex problems—from optimizing **Assembly** code to creating
 ### 🏆 [My Portfolio Website](https://margalidaferriol01.github.io/)
 ### 💻 GitHub Accounts
 * **Main Profile:** [github.com/margalidaferriol01](https://github.com/margalidaferriol01) 🚀
-* **Secondary Profile:** [github.com/maargaafeerriiool](https://github.com/maargaafeerriiool) 📂
-
----
-
-## 🤝 LET'S CONNECT!
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/margalida-ferriol-torres/)
-* 📧 [mferrioltorres@gmail.com](mailto:mferrioltorres@gmail.com)
-
-## 🎯 FUN FACTS
-* I’ve completed **Galopes 1 and 2** in equestrian sports 🐴.
-* In my free time, I enjoy horse riding and exploring how hardware and software communicate.
-* 
+* **Secondary Profile:** [github
