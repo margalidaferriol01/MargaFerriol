@@ -26,7 +26,6 @@ I am a passionate <b>Computer Engineering</b> student at **Universitat Pompeu Fa
 * 🎓 **CURRENTLY:** BSc in Computer Engineering at **UPF** (since 2024).
 * ✅ **GRADUATED:** CFGS in Multiplatform Application Development at **Prat Educació**.
 * 💼 **WORK EXPERIENCE:** Frontend Developer Intern @ **Firechip** (Nov 2024 - Apr 2025).
-* 🐴 **FUN FACT:** I love horse riding and I have completed **Galopes 1 & 2** (RFHE).
 
 ---
 
